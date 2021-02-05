@@ -1,3 +1,4 @@
+docopt==0.6.2
 py==1.8.1
 pyparsing==2.4.6
 PyPDF2==1.26.0
